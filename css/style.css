@@ -5,6 +5,9 @@ html{
 body{
     margin: 0px;
 }
+li{
+    padding: 5px;
+}
 .main {
   width: 615px;
   text-align: justify;
